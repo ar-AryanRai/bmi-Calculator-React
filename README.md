@@ -2,7 +2,7 @@
 
 **FitCalc** is a simple and user-friendly BMI (Body Mass Index) calculator built using **React**. It allows users to input their height and weight, then instantly calculates their BMI along with a health status message.
 
-🌐 **Live Demo**: [fit-calc.netlify.app](https://fit-calc.netlify.app/)
+🌐 **Live Demo**: [Click here to visit bmi calculator](https://fit-calc.netlify.app/)
 
 ---
 
